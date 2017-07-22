@@ -12,7 +12,7 @@ Forest Dodging Game is a first person 3D survival horror game. The player is tra
 #### Requirements:
 [Processing](https://processing.org) >= 2.0
 
-#### Controls:
+#### Controls:
 Use W, A, S,D keys to move around.
 
 Move the mouse to change viewpoints.
